@@ -1,4 +1,10 @@
-# xc
+# xc (the Raku xc, archived)
+
+> **Archived.** The C++ xc moved, with its history, to
+> [hjxkyw/xc](https://github.com/hjxkyw/xc), where it goes on. This
+> repository keeps the Raku xc -- `bin/xc`, `lib/XC/`, its tests in `t/`,
+> and the tools that compared the two xc's -- as it was frozen on 14 October
+> 2026, beside the C++ xc as it was when it moved.
 
 A compiler from xtpl to TL++, in C++20. The language -- what xc takes,
 what it makes of it, what it refuses -- is described in
